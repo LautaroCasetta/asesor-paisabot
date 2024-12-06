@@ -134,7 +134,7 @@ def render_intro():
 
 
     # Uso directo de columnas para los botones
-    btn_col1, btn_col2, btn_col3 = st.columns(3, gap="medium")
+    btn_col1, btn_col2  = st.columns(2, gap="medium")
     with btn_col1:
         st.button(
             "**Mito o Realidad 🤔❓**",
@@ -147,13 +147,6 @@ def render_intro():
             "**Trivia 🎲🎯**",
             key="intro_trivia",
             on_click=select_trivia,  # Conecta el callback
-            use_container_width=True,
-        )
-    with btn_col3:
-        st.button(
-            "**Payador con IA 🎤🧉**",
-            key="intro_payador",
-            on_click=select_payador,  # Conecta el callback
             use_container_width=True,
         )
 
