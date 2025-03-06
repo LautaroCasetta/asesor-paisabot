@@ -435,10 +435,10 @@ if st.session_state.selected_topic:
         st.session_state.rendered_message_ids.add(f"assistant-{len(st.session_state.messages) - 1}")
 
         # Generar y reproducir audio solo si está en el modo "Payador con IA"
-        if selected_topic == "Payador con IA":
-            texto_limpio = clean_message_for_audio(response_content)
-            audio_path = generar_audio_elevenlabs_sdk(texto_limpio)
-            if audio_path:
-                final_audio_path = combine_audio_with_background(audio_path)
-                if final_audio_path:
-                    st.audio(final_audio_path, format="audio/mp3")
+        # if selected_topic == "Payador con IA":
+        #     texto_limpio = clean_message_for_audio(response_content)
+        #     audio_path = generar_audio_elevenlabs_sdk(texto_limpio)
+        #     if audio_path:
+        #         final_audio_path = combine_audio_with_background(audio_path)
+        #         if final_audio_path:
+        #             st.audio(final_audio_path, format="audio/mp3")
