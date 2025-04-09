@@ -39,7 +39,7 @@ Pregunta: ¿Qué organismo controla la entrada y salida de toda la mercadería d
 Pregunta: Las zonas francas son áreas donde las empresas tienen beneficios para la producción y el comercio exterior ¿Cuántas existen en el País? Opciones: 13, 15 y 8. Respuesta correcta: 13.
 """,
 """
-Pregunta: ¿Qué se entiende posición arancelaria? Opciones: Código que identifica servicios a nivel internacional, código que identifica productos a nivel internacional y código que identifica productos y servicios a nivel internacional. Respuesta correcta: Código que identifica productos a nivel internacional.
+Pregunta: ¿Qué se entiende por posición arancelaria? Opciones: Código que identifica servicios a nivel internacional, código que identifica productos a nivel internacional y código que identifica productos y servicios a nivel internacional. Respuesta correcta: Código que identifica productos a nivel internacional.
 """,
 """
 Pregunta: La Agencia Argentina de Inversiones y Comercio Internacional es el organismo encargado de la promoción de inversiones y comercio exterior de nuestro país ¿Cuántos organismos participan de su red federal? Opciones: Uno por provincia, uno por región y uno por ciudad. Respuesta correcta: uno por provincia.
@@ -102,7 +102,7 @@ Pregunta: ¿Cuál de estos es un producto pampeano que compra Paraguay? Opciones
 Pregunta: ¿Qué antigüedad tiene la Agencia I-Comex? Opciones: más de 20 años, menos de 5 años y entre 20 y 5 años. Respuesta correcta: menos de 5 años.
 """,
 """
-Pregunta: ¿Qué organismos forman parte de la Agencia I-COMEX? Opciones: Ministerios, Secretarias y organismos relacionados con la actividad productiva pampeana; organismos nacionales. Respuesta correcta: Ministerios, Secretarias y organismos relacionados con la actividad productiva pampeana.
+Pregunta: ¿Qué organismos se relacionan directamente con la Agencia I-COMEX? Opciones: Ministerios, Secretarias y organismos relacionados con la actividad productiva pampeana; organismos nacionales. Respuesta correcta: Ministerios, Secretarias y organismos relacionados con la actividad productiva pampeana.
 """,
 """
 Pregunta: ¿Qué es la Agencia La Pampa de Inversiones y Comercio Exterior (Agencia I-COMEX)? Opciones: Una organización dedicada exportar productos de La Pampa; una organización que promociona las inversiones y exportaciones pampeanas. Respuesta correcta: una organización que promociona las inversiones y exportaciones pampeanas.
@@ -127,9 +127,6 @@ Pregunta: ¿En qué provincia se encuentra el Centro de Negocios de I-COMEX? Opc
 """,
 """
 Pregunta: ¿Cuál es la función del Centro de Negocios de Neuquén? Opciones: exponer producción pampeana; que las empresas pampeanas proyecten la Patagonia como mercado; coordinar rondas de negocios y reuniones de vinculación comercial; todas las anteriores. Respuesta correcta: todas las anteriores.
-""",
-"""
-Pregunta: ¿Es posible exportar caballos en avión? Opciones: Verdadero – Falso. Respuesta correcta: verdadero.
 """,
 """
 Pregunta: ¿Cuántas modalidades de transporte internacional existen? Opciones: 10, 3, 5. Respuesta correcta: 5. Dato extra: Aéreo - Marítimo - Terrestre – Ferroviario – Multimodal.
@@ -169,9 +166,6 @@ Pregunta: ¿En qué provincia se encuentra el Centro de Negocios de I-COMEX? Opc
 """,
 """
 Pregunta: ¿Cuál es la función del Centro de Negocios de Neuquén? Opciones: exponer producción pampeana; que las empresas pampeanas proyecten la Patagonia como mercado; coordinar rondas de negocios y reuniones de vinculación comercial; todas las anteriores. Respuesta correcta: todas las anteriores.
-""",
-"""
-Pregunta: ¿Es posible exportar caballos en avión? Opciones: Verdadero – Falso. Respuesta correcta: verdadero.
 """,
 """
 Pregunta: ¿Cuántas modalidades de transporte internacional existen? Opciones: 10, 3, 5. Respuesta correcta: 5. Dato extra: Aéreo - Marítimo - Terrestre – Ferroviario – Multimodal.
